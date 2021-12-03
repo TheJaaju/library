@@ -1,0 +1,1 @@
+this script is for mounting my network drives
