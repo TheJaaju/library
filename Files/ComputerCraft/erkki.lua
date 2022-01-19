@@ -1,3 +1,4 @@
+x = 0
 while (x=<50) do
     print("erkki on tyhäm")
     x+1
